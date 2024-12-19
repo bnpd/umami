@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: umami
+    name: langams-umami
     env: docker
     repo: https://github.com/thomascenni/umami.git
     region: frankfurt
