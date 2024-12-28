@@ -2,7 +2,7 @@ services:
   - type: web
     name: langams-umami
     env: docker
-    repo: https://github.com/thomascenni/umami.git
+    repo: https://github.com/bnpd/umami.git
     region: frankfurt
     plan: free
     branch: main
